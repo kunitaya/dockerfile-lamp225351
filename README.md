@@ -1,4 +1,4 @@
-# dockerfile-lamp225351
+# dockerfile-lamp6
 Dockerfile for LAMP
 
 ### Environment
